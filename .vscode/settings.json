@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "outputtxt.h": "c",
+        "inputvalidation.h": "c",
+        "decryption.h": "c"
+    }
+}
